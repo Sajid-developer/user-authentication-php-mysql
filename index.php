@@ -31,7 +31,7 @@
    <div class="form_section">
 
    	  <!------ Register form ------>
-   	  <form class="form" action="signup.php" method="POST" autocomplete="off" id="reg-box">
+   	  <form class="form" action="register.php" method="POST" autocomplete="off" id="reg-box">
    	  	<h1>Register Now</h1>
    	  	<span class="close" onclick="hide()">X</span>
   
